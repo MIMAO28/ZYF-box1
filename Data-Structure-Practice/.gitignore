@@ -1,0 +1,20 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+a.out
+*.stackdump
+
+# 编译输出目录
+output/
+build/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
